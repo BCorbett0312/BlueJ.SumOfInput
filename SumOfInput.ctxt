@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SumOfInput
+comment1.params=
+comment1.target=SumOfInput()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ SumOfInput\n
+comment2.params=choice
+comment2.target=void\ sumOfDigitsToN(int)
+numComments=3
